@@ -10,7 +10,7 @@ $(document).ready(function() {
         var currentNumber = i + diff;
         //when you init it, you should set originNumber equal currentNumber
         var originNumber = i==1? currentNumber : i;
-        $number.myNumberScroll(setting, originNumber, currentNumber);
+        $number.myNumberScroll(originNumber, currentNumber, setting);
         i = i + diff;
         if(i < 1000) {
             setTimeout(test, 1000);
