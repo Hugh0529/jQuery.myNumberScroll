@@ -42,3 +42,7 @@ numberCurrentStyle: 'current'
 ```
 ##Demo
 [demo](http://embed.plnkr.co/Hhgl3KrAIIaICAwMiHb9/preview)
+
+##TODO
+1. 数字减少时候的处理
+2. 优化
