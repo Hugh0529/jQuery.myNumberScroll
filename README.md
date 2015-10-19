@@ -40,3 +40,5 @@ numberCurrentStyle: 'current'
 }
             
 ```
+##Demo
+[demo](http://embed.plnkr.co/Hhgl3KrAIIaICAwMiHb9/preview)
